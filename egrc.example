@@ -1,0 +1,5 @@
+# Put this in ~/.egrc
+[eg-config]
+custom-dir = ~/eg/eg/homelab
+squeeze = true
+#pager-cmd = 'cat'
